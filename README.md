@@ -1,14 +1,16 @@
-# run-buddy-snapshot
+# Run Buddy, Inc
 
 ## Purpose
-A website that offers training services.
+A website that offers fitness training services. 
 
-## Built with
+## Built With
 * HTML
 * CSS
 
 ## Website
-https://mlopez94.github.io/run-buddy-snapshot/
+https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Matt Lopez
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc 
