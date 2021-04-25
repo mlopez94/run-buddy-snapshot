@@ -1,4 +1,4 @@
-# run-buddy-snapshot
+# Run Buddy Inc.
 
 ## Purpose
 A website that offers training services.
